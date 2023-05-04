@@ -1,0 +1,1 @@
+# nextjs-dynamic-segment-static
